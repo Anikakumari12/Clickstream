@@ -1,0 +1,5 @@
+id,event_timestamp,device_type,session_id,visitor_id,item_id,redirection_source
+"",2020-11-15T11:02:00.000+05:30,web,J99928,F9760,"",pinterest
+"",2020-11-16T11:32:00.000+05:30,web,J99897,I3389,"",pinterest
+"",2020-11-16T11:40:00.000+05:30,web,"",I635,B03514,google
+"",2020-11-16T11:42:00.000+05:30,web,"",E229,"",facebook

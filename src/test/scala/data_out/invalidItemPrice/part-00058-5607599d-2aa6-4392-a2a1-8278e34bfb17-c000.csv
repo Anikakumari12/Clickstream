@@ -1,0 +1,255 @@
+item_id,Entity_id,event_timestamp,device_type_t,visitor_session_c,visitor_id,redirection_source_t,item_unit_price_a,product_type_c,department_n
+B02683,14479,2020-11-15T09:17:00.000+05:30,android,G86869,B1061,linkedin,9253.0,J713,beauty
+B10695,48303,2020-11-15T21:12:00.000+05:30,android,E23415,D3131,youtube,5760.0,B876,apps & games
+B18091,40346,2020-11-15T19:02:00.000+05:30,android,E21228,B4924,youtube,1056.0,C501,apps & games
+B18091,40391,2020-11-15T19:03:00.000+05:30,android,E21228,B4924,facebook,1056.0,C501,apps & games
+B3937,3154,2020-11-15T00:53:00.000+05:30,android,D22070,F819,youtube,2220.0,C874,beauty
+B3937,16853,2020-11-15T10:03:00.000+05:30,android,F56942,D2581,linkedin,2220.0,C874,beauty
+B3937,39000,2020-11-15T18:33:00.000+05:30,android,B041549,E5155,facebook,2220.0,C874,beauty
+B4351,46771,2020-11-15T20:52:00.000+05:30,android,G74346,F1016,youtube,2908.5,C417,collectibles
+B4351,44778,2020-11-15T20:20:00.000+05:30,android,H65763,G0016,linkedin,2908.5,C417,collectibles
+B4351,33787,2020-11-15T16:37:00.000+05:30,android,C54408,E3855,facebook,2908.5,C417,collectibles
+B4351,20869,2020-11-15T11:24:00.000+05:30,android,B069459,C6849,google,2908.5,C417,collectibles
+B4351,33718,2020-11-15T16:36:00.000+05:30,android,J03171,F4627,linkedin,2908.5,C417,collectibles
+B4351,20544,2020-11-15T11:16:00.000+05:30,android,F75613,E5315,youtube,2908.5,C417,collectibles
+B4351,39780,2020-11-15T18:50:00.000+05:30,android,J07391,D865,youtube,2908.5,C417,collectibles
+B4351,3222,2020-11-15T00:55:00.000+05:30,android,I62723,G9468,linkedin,2908.5,C417,collectibles
+C2973,13815,2020-11-15T09:05:00.000+05:30,android,E88783,H9352,facebook,115520.0,I19,books
+C2973,13802,2020-11-15T09:05:00.000+05:30,android,E88783,H9352,google,115520.0,I19,books
+C4853,16019,2020-11-15T09:48:00.000+05:30,android,E63081,C9269,youtube,2848.0,G823,apps & games
+C4853,16112,2020-11-15T09:49:00.000+05:30,android,E63081,C9269,google,2848.0,G823,apps & games
+C4853,836,2020-11-15T00:12:00.000+05:30,android,B69066,I994,google,2848.0,G823,apps & games
+C763,4358,2020-11-15T01:25:00.000+05:30,android,I63165,B068,youtube,38400.0,B168,garden & outdoors
+C763,29384,2020-11-15T15:01:00.000+05:30,android,G23226,J1808,google,38400.0,B168,garden & outdoors
+C763,4312,2020-11-15T01:24:00.000+05:30,android,I63165,B068,linkedin,38400.0,B168,garden & outdoors
+C9307,29898,2020-11-15T15:12:00.000+05:30,android,C1395,J2222,google,1075.0,G295,books
+C9307,29850,2020-11-15T15:11:00.000+05:30,android,C1395,J2222,linkedin,1075.0,G295,books
+D6508,17441,2020-11-15T10:13:00.000+05:30,android,J16637,F9554,linkedin,16704.0,H192,beauty
+D6508,36737,2020-11-15T17:49:00.000+05:30,android,J06633,D143,facebook,16704.0,H192,beauty
+D6508,17463,2020-11-15T10:13:00.000+05:30,android,J16637,F9554,linkedin,16704.0,H192,beauty
+E2494,40347,2020-11-15T19:02:00.000+05:30,android,G68754,C9021,google,1008.0,I454,furniture
+E2900,4803,2020-11-15T01:40:00.000+05:30,android,C10065,C1344,youtube,9248.0,D278,garden & outdoors
+E7449,21188,2020-11-15T11:31:00.000+05:30,android,G08726,G5204,google,2656.0,F58,beauty
+E7449,11112,2020-11-15T08:00:00.000+05:30,android,B074641,G2782,youtube,2656.0,F58,beauty
+E7449,17333,2020-11-15T10:11:00.000+05:30,android,B50480,C4758,linkedin,2656.0,F58,beauty
+E7449,43400,2020-11-15T19:53:00.000+05:30,android,B005985,J1596,facebook,2656.0,F58,beauty
+E7449,7183,2020-11-15T04:49:00.000+05:30,android,G86902,I0490,youtube,2656.0,F58,beauty
+E7449,37605,2020-11-15T18:06:00.000+05:30,android,H93288,C4758,linkedin,2656.0,F58,beauty
+E7449,48093,2020-11-15T21:09:00.000+05:30,android,B084352,D9948,google,2656.0,F58,beauty
+E7449,1470,2020-11-15T00:22:00.000+05:30,android,H6616,I2963,google,2656.0,F58,beauty
+E7449,7262,2020-11-15T04:57:00.000+05:30,android,G86902,I0490,linkedin,2656.0,F58,beauty
+E7449,14204,2020-11-15T09:12:00.000+05:30,android,C58741,E4520,facebook,2656.0,F58,beauty
+E7449,1307,2020-11-15T00:20:00.000+05:30,android,H6616,I2963,google,2656.0,F58,beauty
+E7449,17397,2020-11-15T10:12:00.000+05:30,android,B50480,C4758,google,2656.0,F58,beauty
+E920,41532,2020-11-15T19:24:00.000+05:30,android,G2826,G659,youtube,6652.5,B683,garden & outdoors
+F461,23022,2020-11-15T12:12:00.000+05:30,android,I29719,D479,facebook,4384.0,B943,furniture
+F6361,998,2020-11-15T00:15:00.000+05:30,android,J64176,G2726,google,3168.0,I579,baby
+F6833,48624,2020-11-15T21:17:00.000+05:30,android,B02702,H1451,google,3168.0,F251,computers & accessories
+F6833,47591,2020-11-15T21:03:00.000+05:30,android,B02702,H1451,google,3168.0,F251,computers & accessories
+G0989,48205,2020-11-15T21:11:00.000+05:30,android,H95751,F1627,google,2560.0,J015,beauty
+G4146,10061,2020-11-15T07:27:00.000+05:30,android,C54371,E6506,linkedin,1465.5,B790,clothing & accessories
+G4146,7236,2020-11-15T04:54:00.000+05:30,android,B74652,I5228,linkedin,1465.5,B790,clothing & accessories
+G8548,20505,2020-11-15T11:15:00.000+05:30,android,G54473,G0495,facebook,1084.5,G517,apps & games
+H292,30789,2020-11-15T15:32:00.000+05:30,android,H34233,H3907,google,1244.5,I522,computers & accessories
+H292,3910,2020-11-15T01:12:00.000+05:30,android,E47928,F7680,linkedin,1244.5,I522,computers & accessories
+H292,37740,2020-11-15T18:08:00.000+05:30,android,G25593,G6654,youtube,1244.5,I522,computers & accessories
+H292,36484,2020-11-15T17:43:00.000+05:30,android,G25593,G6654,linkedin,1244.5,I522,computers & accessories
+H292,43220,2020-11-15T19:50:00.000+05:30,android,G60175,H9106,linkedin,1244.5,I522,computers & accessories
+H292,39656,2020-11-15T18:46:00.000+05:30,android,G25593,G6654,linkedin,1244.5,I522,computers & accessories
+H292,38170,2020-11-15T18:16:00.000+05:30,android,G25593,G6654,youtube,1244.5,I522,computers & accessories
+H292,3949,2020-11-15T01:13:00.000+05:30,android,B039958,C55,facebook,1244.5,I522,computers & accessories
+H292,36871,2020-11-15T17:52:00.000+05:30,android,G25593,G6654,google,1244.5,I522,computers & accessories
+H292,37084,2020-11-15T17:57:00.000+05:30,android,H95403,I684,google,1244.5,I522,computers & accessories
+H292,35413,2020-11-15T17:16:00.000+05:30,android,G25593,G6654,linkedin,1244.5,I522,computers & accessories
+H292,23736,2020-11-15T12:32:00.000+05:30,android,E9970,H7048,linkedin,1244.5,I522,computers & accessories
+H292,15965,2020-11-15T09:47:00.000+05:30,android,J25406,I4622,linkedin,1244.5,I522,computers & accessories
+H292,45372,2020-11-15T20:31:00.000+05:30,android,G42024,G386,youtube,1244.5,I522,computers & accessories
+H292,37877,2020-11-15T18:10:00.000+05:30,android,G25593,G6654,youtube,1244.5,I522,computers & accessories
+H292,14728,2020-11-15T09:22:00.000+05:30,android,C96873,B208,google,1244.5,I522,computers & accessories
+H292,47610,2020-11-15T21:03:00.000+05:30,android,G28497,F226,google,1244.5,I522,computers & accessories
+H292,36044,2020-11-15T17:31:00.000+05:30,android,G25593,G6654,facebook,1244.5,I522,computers & accessories
+H292,19875,2020-11-15T11:02:00.000+05:30,android,J30654,C9757,facebook,1244.5,I522,computers & accessories
+H292,43546,2020-11-15T19:55:00.000+05:30,android,J51812,F8479,facebook,1244.5,I522,computers & accessories
+H292,27220,2020-11-15T14:06:00.000+05:30,android,C4095,F0135,google,1244.5,I522,computers & accessories
+H292,25489,2020-11-15T13:23:00.000+05:30,android,F21937,H0057,facebook,1244.5,I522,computers & accessories
+H292,38075,2020-11-15T18:14:00.000+05:30,android,G25593,G6654,youtube,1244.5,I522,computers & accessories
+H292,25435,2020-11-15T13:21:00.000+05:30,android,F21937,H0057,facebook,1244.5,I522,computers & accessories
+H292,13217,2020-11-15T08:53:00.000+05:30,android,J05921,C7599,youtube,1244.5,I522,computers & accessories
+H292,6862,2020-11-15T04:12:00.000+05:30,android,I12285,H5039,linkedin,1244.5,I522,computers & accessories
+H292,46072,2020-11-15T20:42:00.000+05:30,android,J23135,F9768,youtube,1244.5,I522,computers & accessories
+H292,43466,2020-11-15T19:54:00.000+05:30,android,D79192,C0766,youtube,1244.5,I522,computers & accessories
+H292,19892,2020-11-15T11:02:00.000+05:30,android,J30654,C9757,facebook,1244.5,I522,computers & accessories
+H292,13861,2020-11-15T09:06:00.000+05:30,android,B15578,G2909,linkedin,1244.5,I522,computers & accessories
+H292,1860,2020-11-15T00:28:00.000+05:30,android,I19486,C3021,facebook,1244.5,I522,computers & accessories
+H292,5666,2020-11-15T02:25:00.000+05:30,android,I64676,J0764,google,1244.5,I522,computers & accessories
+H292,46220,2020-11-15T20:44:00.000+05:30,android,H83622,D9712,linkedin,1244.5,I522,computers & accessories
+H292,32675,2020-11-15T16:10:00.000+05:30,android,C01259,F5747,linkedin,1244.5,I522,computers & accessories
+H292,26766,2020-11-15T13:55:00.000+05:30,android,I07110,H4277,youtube,1244.5,I522,computers & accessories
+H292,19802,2020-11-15T11:00:00.000+05:30,android,F21292,G5997,youtube,1244.5,I522,computers & accessories
+H292,39261,2020-11-15T18:39:00.000+05:30,android,I06725,H9340,youtube,1244.5,I522,computers & accessories
+H292,25785,2020-11-15T13:31:00.000+05:30,android,I17604,I3065,youtube,1244.5,I522,computers & accessories
+H292,46639,2020-11-15T20:51:00.000+05:30,android,J28362,I7809,youtube,1244.5,I522,computers & accessories
+H292,39499,2020-11-15T18:43:00.000+05:30,android,I06725,H9340,youtube,1244.5,I522,computers & accessories
+H292,39415,2020-11-15T18:41:00.000+05:30,android,G25593,G6654,google,1244.5,I522,computers & accessories
+H292,35935,2020-11-15T17:29:00.000+05:30,android,G25593,G6654,linkedin,1244.5,I522,computers & accessories
+H292,37177,2020-11-15T17:59:00.000+05:30,android,F76672,H2307,google,1244.5,I522,computers & accessories
+H292,27870,2020-11-15T14:23:00.000+05:30,android,G32194,G6654,facebook,1244.5,I522,computers & accessories
+H292,35436,2020-11-15T17:17:00.000+05:30,android,G25593,G6654,linkedin,1244.5,I522,computers & accessories
+H292,30784,2020-11-15T15:32:00.000+05:30,android,H34233,H3907,youtube,1244.5,I522,computers & accessories
+H292,36354,2020-11-15T17:39:00.000+05:30,android,G25593,G6654,google,1244.5,I522,computers & accessories
+H292,25659,2020-11-15T13:27:00.000+05:30,android,F21937,H0057,facebook,1244.5,I522,computers & accessories
+H292,27520,2020-11-15T14:14:00.000+05:30,android,G32194,G6654,youtube,1244.5,I522,computers & accessories
+H292,39270,2020-11-15T18:39:00.000+05:30,android,E98253,E1822,facebook,1244.5,I522,computers & accessories
+H292,25720,2020-11-15T13:29:00.000+05:30,android,E87027,H4528,google,1244.5,I522,computers & accessories
+H292,28926,2020-11-15T14:51:00.000+05:30,android,B50337,I069,youtube,1244.5,I522,computers & accessories
+H292,1923,2020-11-15T00:29:00.000+05:30,android,I19486,C3021,youtube,1244.5,I522,computers & accessories
+H292,36610,2020-11-15T17:45:00.000+05:30,android,G25593,G6654,google,1244.5,I522,computers & accessories
+H292,31666,2020-11-15T15:49:00.000+05:30,android,C00087,G6654,facebook,1244.5,I522,computers & accessories
+H292,18773,2020-11-15T10:37:00.000+05:30,android,J43465,F8459,youtube,1244.5,I522,computers & accessories
+H292,45478,2020-11-15T20:33:00.000+05:30,android,B81664,B0967,linkedin,1244.5,I522,computers & accessories
+H292,37973,2020-11-15T18:12:00.000+05:30,android,G25593,G6654,linkedin,1244.5,I522,computers & accessories
+H292,36322,2020-11-15T17:38:00.000+05:30,android,G25593,G6654,facebook,1244.5,I522,computers & accessories
+H292,1760,2020-11-15T00:26:00.000+05:30,android,C65094,F911,facebook,1244.5,I522,computers & accessories
+H292,36774,2020-11-15T17:50:00.000+05:30,android,H95403,I684,facebook,1244.5,I522,computers & accessories
+H292,26072,2020-11-15T13:38:00.000+05:30,android,J27695,E4508,youtube,1244.5,I522,computers & accessories
+H292,5731,2020-11-15T02:28:00.000+05:30,android,D59350,H8081,google,1244.5,I522,computers & accessories
+H292,27548,2020-11-15T14:15:00.000+05:30,android,I9368,I659,linkedin,1244.5,I522,computers & accessories
+H292,45937,2020-11-15T20:40:00.000+05:30,android,I34930,E6871,linkedin,1244.5,I522,computers & accessories
+H292,1780,2020-11-15T00:26:00.000+05:30,android,I19486,C3021,facebook,1244.5,I522,computers & accessories
+H292,39682,2020-11-15T18:47:00.000+05:30,android,G25593,G6654,youtube,1244.5,I522,computers & accessories
+H292,16426,2020-11-15T09:56:00.000+05:30,android,G49691,D8303,linkedin,1244.5,I522,computers & accessories
+H292,31601,2020-11-15T15:48:00.000+05:30,android,C57584,D3787,linkedin,1244.5,I522,computers & accessories
+H292,35693,2020-11-15T17:23:00.000+05:30,android,G25593,G6654,linkedin,1244.5,I522,computers & accessories
+H292,32885,2020-11-15T16:15:00.000+05:30,android,J23630,C1681,youtube,1244.5,I522,computers & accessories
+H292,27785,2020-11-15T14:21:00.000+05:30,android,G32194,G6654,linkedin,1244.5,I522,computers & accessories
+H292,32990,2020-11-15T16:19:00.000+05:30,android,J23630,C1681,linkedin,1244.5,I522,computers & accessories
+H292,31752,2020-11-15T15:51:00.000+05:30,android,C00087,G6654,facebook,1244.5,I522,computers & accessories
+H292,27714,2020-11-15T14:19:00.000+05:30,android,G32194,G6654,linkedin,1244.5,I522,computers & accessories
+H292,24182,2020-11-15T12:45:00.000+05:30,android,E40423,B8973,google,1244.5,I522,computers & accessories
+H292,44319,2020-11-15T20:11:00.000+05:30,android,E65482,H0847,facebook,1244.5,I522,computers & accessories
+H292,31702,2020-11-15T15:50:00.000+05:30,android,C00087,G6654,youtube,1244.5,I522,computers & accessories
+H292,35417,2020-11-15T17:17:00.000+05:30,android,F37562,C3448,google,1244.5,I522,computers & accessories
+H292,1531,2020-11-15T00:23:00.000+05:30,android,B43849,D6621,youtube,1244.5,I522,computers & accessories
+H292,46646,2020-11-15T20:51:00.000+05:30,android,C14462,G6674,google,1244.5,I522,computers & accessories
+H292,33453,2020-11-15T16:30:00.000+05:30,android,J03171,F4627,linkedin,1244.5,I522,computers & accessories
+H292,22351,2020-11-15T11:56:00.000+05:30,android,B45592,E5655,linkedin,1244.5,I522,computers & accessories
+H292,2495,2020-11-15T00:38:00.000+05:30,android,D07970,G6734,google,1244.5,I522,computers & accessories
+H292,39732,2020-11-15T18:48:00.000+05:30,android,G25593,G6654,youtube,1244.5,I522,computers & accessories
+H292,38693,2020-11-15T18:26:00.000+05:30,android,G25593,G6654,linkedin,1244.5,I522,computers & accessories
+H292,6591,2020-11-15T03:38:00.000+05:30,android,I31582,J146,youtube,1244.5,I522,computers & accessories
+H292,19237,2020-11-15T10:47:00.000+05:30,android,D08404,D4351,youtube,1244.5,I522,computers & accessories
+H292,9051,2020-11-15T06:55:00.000+05:30,android,B038774,B4130,google,1244.5,I522,computers & accessories
+H292,36431,2020-11-15T17:41:00.000+05:30,android,G25593,G6654,google,1244.5,I522,computers & accessories
+H292,29107,2020-11-15T14:54:00.000+05:30,android,H4102,G0127,facebook,1244.5,I522,computers & accessories
+H292,14582,2020-11-15T09:19:00.000+05:30,android,B79135,D1379,linkedin,1244.5,I522,computers & accessories
+H292,35743,2020-11-15T17:24:00.000+05:30,android,G25593,G6654,linkedin,1244.5,I522,computers & accessories
+H292,552,2020-11-15T00:08:00.000+05:30,android,C30248,G4533,google,1244.5,I522,computers & accessories
+H292,24840,2020-11-15T13:03:00.000+05:30,android,G40164,D8554,youtube,1244.5,I522,computers & accessories
+H292,9807,2020-11-15T07:20:00.000+05:30,android,H24185,H9045,facebook,1244.5,I522,computers & accessories
+H292,38055,2020-11-15T18:13:00.000+05:30,android,G25593,G6654,youtube,1244.5,I522,computers & accessories
+H292,27247,2020-11-15T14:07:00.000+05:30,android,G32194,G6654,youtube,1244.5,I522,computers & accessories
+H292,39076,2020-11-15T18:35:00.000+05:30,android,G25593,G6654,youtube,1244.5,I522,computers & accessories
+H292,29884,2020-11-15T15:12:00.000+05:30,android,B76041,H8178,google,1244.5,I522,computers & accessories
+H292,3955,2020-11-15T01:13:00.000+05:30,android,E47928,F7680,linkedin,1244.5,I522,computers & accessories
+H292,45455,2020-11-15T20:32:00.000+05:30,android,G42024,G386,facebook,1244.5,I522,computers & accessories
+H292,32034,2020-11-15T15:56:00.000+05:30,android,I40097,D4851,facebook,1244.5,I522,computers & accessories
+H292,28723,2020-11-15T14:46:00.000+05:30,android,J15505,E9327,youtube,1244.5,I522,computers & accessories
+H292,27719,2020-11-15T14:19:00.000+05:30,android,G32194,G6654,google,1244.5,I522,computers & accessories
+H292,24269,2020-11-15T12:48:00.000+05:30,android,F46586,I8619,youtube,1244.5,I522,computers & accessories
+H292,3609,2020-11-15T01:04:00.000+05:30,android,I29323,F4428,google,1244.5,I522,computers & accessories
+H292,37667,2020-11-15T18:07:00.000+05:30,android,G25593,G6654,youtube,1244.5,I522,computers & accessories
+H292,30723,2020-11-15T15:31:00.000+05:30,android,C00087,G6654,facebook,1244.5,I522,computers & accessories
+H292,26468,2020-11-15T13:47:00.000+05:30,android,D11541,H8776,youtube,1244.5,I522,computers & accessories
+H292,30968,2020-11-15T15:36:00.000+05:30,android,J21820,D4897,youtube,1244.5,I522,computers & accessories
+H292,21540,2020-11-15T11:39:00.000+05:30,android,E22956,I2807,facebook,1244.5,I522,computers & accessories
+H292,7979,2020-11-15T06:06:00.000+05:30,android,I17730,E5746,linkedin,1244.5,I522,computers & accessories
+H292,13681,2020-11-15T09:03:00.000+05:30,android,I71506,B6537,google,1244.5,I522,computers & accessories
+H292,12243,2020-11-15T08:30:00.000+05:30,android,D81012,C0113,google,1244.5,I522,computers & accessories
+H292,30521,2020-11-15T15:27:00.000+05:30,android,C00087,G6654,google,1244.5,I522,computers & accessories
+H292,35483,2020-11-15T17:18:00.000+05:30,android,F37562,C3448,google,1244.5,I522,computers & accessories
+H292,30621,2020-11-15T15:29:00.000+05:30,android,C00087,G6654,facebook,1244.5,I522,computers & accessories
+H292,36394,2020-11-15T17:40:00.000+05:30,android,G25593,G6654,youtube,1244.5,I522,computers & accessories
+H292,35059,2020-11-15T17:09:00.000+05:30,android,H44880,C0699,youtube,1244.5,I522,computers & accessories
+H292,30430,2020-11-15T15:25:00.000+05:30,android,C00087,G6654,google,1244.5,I522,computers & accessories
+H292,37776,2020-11-15T18:09:00.000+05:30,android,G25593,G6654,google,1244.5,I522,computers & accessories
+H292,30791,2020-11-15T15:32:00.000+05:30,android,C00087,G6654,youtube,1244.5,I522,computers & accessories
+H292,26939,2020-11-15T13:59:00.000+05:30,android,I95944,B2534,youtube,1244.5,I522,computers & accessories
+H292,1701,2020-11-15T00:25:00.000+05:30,android,C65094,F911,youtube,1244.5,I522,computers & accessories
+H292,6583,2020-11-15T03:37:00.000+05:30,android,I31582,J146,youtube,1244.5,I522,computers & accessories
+H292,43495,2020-11-15T19:54:00.000+05:30,android,J51812,F8479,youtube,1244.5,I522,computers & accessories
+H292,15590,2020-11-15T09:40:00.000+05:30,android,B033157,E6753,youtube,1244.5,I522,computers & accessories
+H292,42804,2020-11-15T19:43:00.000+05:30,android,J36707,J590,facebook,1244.5,I522,computers & accessories
+H292,35092,2020-11-15T17:09:00.000+05:30,android,B52012,H6117,facebook,1244.5,I522,computers & accessories
+H292,32520,2020-11-15T16:06:00.000+05:30,android,B24983,F8096,facebook,1244.5,I522,computers & accessories
+H292,37213,2020-11-15T18:00:00.000+05:30,android,F76672,H2307,google,1244.5,I522,computers & accessories
+H292,20773,2020-11-15T11:21:00.000+05:30,android,D57500,I6082,linkedin,1244.5,I522,computers & accessories
+H292,32319,2020-11-15T16:02:00.000+05:30,android,D46213,D2933,google,1244.5,I522,computers & accessories
+H292,22179,2020-11-15T11:53:00.000+05:30,android,B62096,I7426,linkedin,1244.5,I522,computers & accessories
+H292,23082,2020-11-15T12:14:00.000+05:30,android,F41727,F8096,linkedin,1244.5,I522,computers & accessories
+H292,19352,2020-11-15T10:50:00.000+05:30,android,H09430,E9343,facebook,1244.5,I522,computers & accessories
+H292,9117,2020-11-15T06:57:00.000+05:30,android,B038774,B4130,linkedin,1244.5,I522,computers & accessories
+H292,39486,2020-11-15T18:43:00.000+05:30,android,G25593,G6654,linkedin,1244.5,I522,computers & accessories
+H292,37538,2020-11-15T18:05:00.000+05:30,android,G25593,G6654,facebook,1244.5,I522,computers & accessories
+H292,36114,2020-11-15T17:33:00.000+05:30,android,G25593,G6654,google,1244.5,I522,computers & accessories
+H292,2045,2020-11-15T00:30:00.000+05:30,android,I19486,C3021,facebook,1244.5,I522,computers & accessories
+H292,39931,2020-11-15T18:53:00.000+05:30,android,G25593,G6654,youtube,1244.5,I522,computers & accessories
+H292,30419,2020-11-15T15:25:00.000+05:30,android,C00087,G6654,google,1244.5,I522,computers & accessories
+H292,39145,2020-11-15T18:36:00.000+05:30,android,G25593,G6654,google,1244.5,I522,computers & accessories
+H292,7877,2020-11-15T05:56:00.000+05:30,android,I17730,E5746,google,1244.5,I522,computers & accessories
+H292,35565,2020-11-15T17:20:00.000+05:30,android,F37562,C3448,youtube,1244.5,I522,computers & accessories
+H292,35908,2020-11-15T17:28:00.000+05:30,android,G25593,G6654,youtube,1244.5,I522,computers & accessories
+H292,5660,2020-11-15T02:24:00.000+05:30,android,I64676,J0764,google,1244.5,I522,computers & accessories
+H292,40943,2020-11-15T19:13:00.000+05:30,android,J39776,H6357,google,1244.5,I522,computers & accessories
+H292,22150,2020-11-15T11:52:00.000+05:30,android,F15128,D2933,google,1244.5,I522,computers & accessories
+H292,209,2020-11-15T00:02:00.000+05:30,android,H50879,E9801,linkedin,1244.5,I522,computers & accessories
+H292,39521,2020-11-15T18:44:00.000+05:30,android,G25593,G6654,google,1244.5,I522,computers & accessories
+H292,21519,2020-11-15T11:39:00.000+05:30,android,E22956,I2807,facebook,1244.5,I522,computers & accessories
+H292,25075,2020-11-15T13:10:00.000+05:30,android,J64521,H2011,google,1244.5,I522,computers & accessories
+H292,25308,2020-11-15T13:17:00.000+05:30,android,H71942,B8340,youtube,1244.5,I522,computers & accessories
+H292,22140,2020-11-15T11:52:00.000+05:30,android,B62096,I7426,linkedin,1244.5,I522,computers & accessories
+H292,38985,2020-11-15T18:32:00.000+05:30,android,G25593,G6654,google,1244.5,I522,computers & accessories
+H292,34970,2020-11-15T17:07:00.000+05:30,android,H44880,C0699,google,1244.5,I522,computers & accessories
+H292,36083,2020-11-15T17:32:00.000+05:30,android,G25593,G6654,google,1244.5,I522,computers & accessories
+H292,18754,2020-11-15T10:37:00.000+05:30,android,I31525,D809,google,1244.5,I522,computers & accessories
+H292,332,2020-11-15T00:04:00.000+05:30,android,I89351,I2807,google,1244.5,I522,computers & accessories
+H292,39183,2020-11-15T18:37:00.000+05:30,android,G25593,G6654,youtube,1244.5,I522,computers & accessories
+H292,36483,2020-11-15T17:42:00.000+05:30,android,G25593,G6654,google,1244.5,I522,computers & accessories
+H292,35969,2020-11-15T17:30:00.000+05:30,android,G25593,G6654,linkedin,1244.5,I522,computers & accessories
+H292,23081,2020-11-15T12:14:00.000+05:30,android,F68813,E8588,linkedin,1244.5,I522,computers & accessories
+H292,43770,2020-11-15T19:59:00.000+05:30,android,J56,B5022,google,1244.5,I522,computers & accessories
+H292,38211,2020-11-15T18:17:00.000+05:30,android,G25593,G6654,facebook,1244.5,I522,computers & accessories
+H292,31287,2020-11-15T15:42:00.000+05:30,android,C00087,G6654,youtube,1244.5,I522,computers & accessories
+H292,7602,2020-11-15T05:30:00.000+05:30,android,G86309,H8294,facebook,1244.5,I522,computers & accessories
+H292,47102,2020-11-15T20:56:00.000+05:30,android,I32165,D5817,facebook,1244.5,I522,computers & accessories
+H292,368,2020-11-15T00:05:00.000+05:30,android,B025714,E1601,facebook,1244.5,I522,computers & accessories
+H292,43953,2020-11-15T20:03:00.000+05:30,android,H38906,D7758,youtube,1244.5,I522,computers & accessories
+H292,27631,2020-11-15T14:17:00.000+05:30,android,G32194,G6654,google,1244.5,I522,computers & accessories
+H292,36554,2020-11-15T17:44:00.000+05:30,android,G25593,G6654,linkedin,1244.5,I522,computers & accessories
+H292,49769,2020-11-15T21:36:00.000+05:30,android,D96173,H2919,google,1244.5,I522,computers & accessories
+H292,31987,2020-11-15T15:56:00.000+05:30,android,H04679,I3009,linkedin,1244.5,I522,computers & accessories
+H292,27822,2020-11-15T14:22:00.000+05:30,android,G32194,G6654,google,1244.5,I522,computers & accessories
+H292,31290,2020-11-15T15:42:00.000+05:30,android,C00087,G6654,youtube,1244.5,I522,computers & accessories
+H4195,6939,2020-11-15T04:24:00.000+05:30,android,G51444,H3725,linkedin,2112.0,E077,books
+H673,11161,2020-11-15T08:01:00.000+05:30,android,F16378,E7486,youtube,15584.0,J344,clothing & accessories
+I324,30812,2020-11-15T15:33:00.000+05:30,android,D74020,E4863,google,2698.5,I606,clothing & accessories
+I5650,21800,2020-11-15T11:45:00.000+05:30,android,J4212,F5410,youtube,1356.5,C781,apps & games
+J0923,37739,2020-11-15T18:08:00.000+05:30,android,C06000,I5085,linkedin,8064.0,J085,computers & accessories
+J0923,27110,2020-11-15T14:03:00.000+05:30,android,E34772,I5085,google,8064.0,J085,computers & accessories
+J4831,33681,2020-11-15T16:35:00.000+05:30,android,G58267,C0301,linkedin,1177.5,C106,garden & outdoors
+J4831,4395,2020-11-15T01:26:00.000+05:30,android,J398,F8641,youtube,1177.5,C106,garden & outdoors
+J4831,10381,2020-11-15T07:39:00.000+05:30,android,I69620,E1902,facebook,1177.5,C106,garden & outdoors
+J4831,4244,2020-11-15T01:21:00.000+05:30,android,J398,F8641,facebook,1177.5,C106,garden & outdoors
+J4831,4280,2020-11-15T01:22:00.000+05:30,android,J398,F8641,youtube,1177.5,C106,garden & outdoors
+J9554,26856,2020-11-15T13:57:00.000+05:30,android,F47043,B8272,youtube,1948.5,F267,furniture
+J9554,4850,2020-11-15T01:42:00.000+05:30,android,G78325,I2140,facebook,1948.5,F267,furniture
+J9554,7243,2020-11-15T04:54:00.000+05:30,android,G85322,B2655,google,1948.5,F267,furniture
+J9554,40725,2020-11-15T19:09:00.000+05:30,android,B57771,B1150,google,1948.5,F267,furniture
+J9554,40662,2020-11-15T19:08:00.000+05:30,android,B57771,B1150,youtube,1948.5,F267,furniture
+J9554,33517,2020-11-15T16:32:00.000+05:30,android,H30426,B8272,linkedin,1948.5,F267,furniture
+J9554,35955,2020-11-15T17:29:00.000+05:30,android,F61667,D3898,google,1948.5,F267,furniture
+J9554,44104,2020-11-15T20:06:00.000+05:30,android,B89795,B2638,google,1948.5,F267,furniture
+J9554,25804,2020-11-15T13:31:00.000+05:30,android,F49475,G3549,facebook,1948.5,F267,furniture
+J9554,3671,2020-11-15T01:06:00.000+05:30,android,D83647,E5006,google,1948.5,F267,furniture
+J9554,17978,2020-11-15T10:22:00.000+05:30,android,E72465,F8663,google,1948.5,F267,furniture
+J9554,34955,2020-11-15T17:06:00.000+05:30,android,J69614,D3130,linkedin,1948.5,F267,furniture
+J9554,47967,2020-11-15T21:07:00.000+05:30,android,I53296,C5617,google,1948.5,F267,furniture
